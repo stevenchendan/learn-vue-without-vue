@@ -1,0 +1,25 @@
+{
+  "name": "learn-vue-without-vue",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to understand how vue works.",
+  "main": "learn-vue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenchendan/learn-vue-without-vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "steven chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenchendan/learn-vue-without-vue/issues"
+  },
+  "homepage": "https://github.com/stevenchendan/learn-vue-without-vue#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
